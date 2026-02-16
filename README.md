@@ -56,6 +56,9 @@ Follow these steps to run the project locally:
 📝 Concepts Learned
 * Using the useState Hook for managing state.
 *Handling click events in React.
-*Conditional rendering and dynamic styling. 
+*Conditional rendering and dynamic styling.
+
+ *live Demo:
+ https://khushisingh-22.github.io/React-counter-App/
       
  
