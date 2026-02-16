@@ -30,12 +30,14 @@ Follow these steps to run the project locally:
 
 3.Run the application:
       npm start
+      
+4.Install dependencies:
+    npm install
+   
 
 📝 Concepts Learned
 * Using the useState Hook for managing state.
 *Handling click events in React.
 *Conditional rendering and dynamic styling. 
       
-3.Install dependencies:
-    npm install
-   
+
