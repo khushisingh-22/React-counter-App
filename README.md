@@ -58,4 +58,4 @@ Follow these steps to run the project locally:
 *Handling click events in React.
 *Conditional rendering and dynamic styling. 
       
- debd90513a65ca9582fa5d6b2afdad24dd486835
+ 
