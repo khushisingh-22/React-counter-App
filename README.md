@@ -58,7 +58,6 @@ Follow these steps to run the project locally:
 *Handling click events in React.
 *Conditional rendering and dynamic styling.
 
- *live Demo:
- https://khushisingh-22.github.io/React-counter-App/
+ 
       
  
